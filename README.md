@@ -7,9 +7,9 @@ Researcher. Developer. Speaker.
 Chandra Suda is a 16-year-old researcher and innovator in AI & medicine passionate about making quality healthcare accessible to everyone. His research includes numerous projects recognized at the national and international level. Leading STEM education organizations and humanitarian volunteer teams at Red Cross, he has received US presidential and congressional awards.
 
 *   🌍  I'm based in Bentonville, AR
-*   🚀  I'm currently working on [biomedical + AI research](http://z)
+*   🚀  I'm currently working on biomedical + AI research
 *   🧠  I'm learning everything ML
-*   ⚡  Connect w/ me on LinkedIn### Skills 
+*   ⚡  Connect w/ me on [LinkedIn](https://linkedin.com/in/chandrasuda)### Skills 
 <p align="left">
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
