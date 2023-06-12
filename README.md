@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chandra Suda
 ====================================================================================================================================
 
-Researcher. Developer. Speaker.
+Researcher.  Developer.  Speaker.
 -------------------------------
 
 Chandra Suda is a 16-year-old researcher and innovator in AI & medicine passionate about making quality healthcare accessible to everyone. His research includes numerous projects recognized at the national and international level. Leading STEM education organizations and humanitarian volunteer teams at Red Cross, he has received US presidential and congressional awards.
