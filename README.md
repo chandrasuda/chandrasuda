@@ -7,8 +7,7 @@ Researcher.  Developer.  Speaker.
 Chandra Suda is a 16-year-old researcher and innovator in AI & medicine passionate about making quality healthcare accessible to everyone. His research includes numerous projects recognized at the national and international level. Leading STEM education organizations and humanitarian volunteer teams at Red Cross, he has received U.S. Presidential and Congressional awards.
 
 *   🌍  I'm based in Bentonville, AR
-*   🚀  I'm currently working on biomedical + AI research
-*   🎖️  I'm preparing for my GIAC GFACT cybersecurity certification
+*   🚀  I'm currently working on biomedical + AI research and my 🎖️ GIAC GFACT cybersecurity certification
 *   🧠  I'm learning (in a perpetual state of) everything ML
 *   ⚡  Connect w/ me on [LinkedIn](https://linkedin.com/in/chandrasuda)
 
