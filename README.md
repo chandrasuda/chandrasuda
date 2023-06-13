@@ -8,7 +8,7 @@ Chandra Suda is a 16-year-old researcher and innovator in AI & medicine passiona
 
 *   🌍  I'm based in Bentonville, AR
 *   🚀  I'm currently working on biomedical + AI research
-*    🏅  I'm preparing for my GIAC GFACT cybersecurity certification
+*   🏆  I'm preparing for my GIAC GFACT cybersecurity certification
 *   🧠  I'm learning (in a perpetual state of) everything ML
 *   ⚡  Connect w/ me on [LinkedIn](https://linkedin.com/in/chandrasuda)
 
