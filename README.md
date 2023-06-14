@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Researcher.  Developer.  Speaker.
 -------------------------------
 
-Chandra Suda is a 16-year-old researcher and innovator in AI & medicine passionate about making quality healthcare accessible to everyone. His research includes numerous projects recognized at the national and international level. Leading STEM education organizations and humanitarian volunteer teams at Red Cross, he has received U.S. Presidential and Congressional awards.
+Chandra Suda is a researcher and innovator in AI & medicine passionate about making quality healthcare accessible to everyone. His research includes numerous projects recognized at the national and international level. Leading STEM education organizations and humanitarian volunteer teams at Red Cross, he has received U.S. Presidential and Congressional awards.
 
 *   🌍  I'm based in Bentonville, AR
 *   🚀  I'm currently working on biomedical + AI research and my 🎖️ GIAC GFACT cybersecurity certification
