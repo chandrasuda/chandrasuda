@@ -1,7 +1,7 @@
 Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Chandra Suda
 ====================================================================================================================================
 
-*   🚀  I'm currently working on biomedical + AI research and my 🎖️ GIAC GFACT cybersecurity certification
+*   🚀  I'm currently working on biomedical + AI research 
 *   🧠  I'm learning (in a perpetual state of) everything ML
 *   ⚡  Connect w/ me on [LinkedIn](https://linkedin.com/in/chandrasuda)
 
